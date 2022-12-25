@@ -1,7 +1,7 @@
 const neo4j = require('neo4j-driver');
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 4000;
 
 const driver = neo4j.driver(
     'bolt://localhost:7687',
