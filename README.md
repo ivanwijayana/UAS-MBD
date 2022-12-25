@@ -2,22 +2,21 @@
 
 # Neo4j setup
 
-## Configuration
+### Configuration
 ![config](https://github.com/ivanwijayana/UAS-MBD/blob/master/img/setup.png)
 
 # Neo4j integration
-## Connectivity
-Menggunakan neo4j driver
+### Connectivity (Menggunakan neo4j-driver dependencies)
 ![konektivitas](https://github.com/ivanwijayana/UAS-MBD/blob/master/img/connectivity.png)
 
-## Query (Using match)
+### Query (Using match)
 ![get](https://github.com/ivanwijayana/UAS-MBD/blob/master/img/get.png)
 
-## Create
+### Create
 ![create](https://github.com/ivanwijayana/UAS-MBD/blob/master/img/post.png)
 
-## Update
+### Update
 ![edit](https://github.com/ivanwijayana/UAS-MBD/blob/master/img/update.png)
 
-## Delete
+### Delete
 ![delete](https://github.com/ivanwijayana/UAS-MBD/blob/master/img/delete.png)
