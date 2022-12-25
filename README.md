@@ -10,10 +10,10 @@
 ![2](img/pull-dockerhub.PNG "Docker")
 
 ### 3. Install dengan docker-compose
-![3](img/instal-compose.PNG "Docker")
+![3](img/instal-compose.jpg "Docker")
 
 ### 4. Run Docker
-![4](img/run docker.PNG "Docker")
+![4](img/run docker.jpg "Docker")
 
 ### 5. Buat folder baru ex. neo4j kemudian buat file dengan tipe .yml
 ![5](img/docker-compose.PNG "Docker")
